@@ -1,7 +1,14 @@
 # Portfolio
 
-My personal developer portfolio. Single-page HTML site with Tailwind CSS.
+My personal portfolio site. Single-page HTML with Tailwind CSS (loaded from CDN).
 
-Has dark/light mode toggle, sections for experience, projects, skills, and contact info.
+- Dark/light mode with a toggle (persists in localStorage)
+- Sections: about, skills, experience (Nokia internship), projects, certifications, contact
+- Responsive — works on mobile
+- Smooth scrolling nav with active section highlighting
 
-[Live site](https://mrkrishna225.github.io/portfolio) (if GitHub Pages is enabled)
+## Run
+
+Just open `index.html` in a browser. No build step needed.
+
+Or deploy to GitHub Pages.
