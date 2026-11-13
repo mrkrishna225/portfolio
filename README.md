@@ -1,20 +1,26 @@
 # Developer Portfolio — Anjani Krishna Gujjula
 
+> Personal developer portfolio featuring responsive design, dark/light theme switching, and interactive IT & Data Engineering showcase.
+
+### Tech Stack & Topics
+`portfolio` | `developer-portfolio` | `tailwindcss` | `frontend` | `html5` | `javascript`
+
+
 Modern, sleek personal developer portfolio showcasing technical experience in Data Engineering at Nokia, Big Data pipelines, GenAI systems, and full-stack development.
 
-### 🛠️ Tech Stack & Topics
+###  Tech Stack & Topics
 `portfolio` `developer-portfolio` `tailwindcss` `frontend` `html5` `javascript`
 
 ---
 
-### 🎨 Highlights
+###  Highlights
 - **Responsive Design:** Mobile-first layout with smooth scrolling and interactive components.
 - **Dark / Light Mode:** Dynamic theme switcher with persistent local state.
 - **Tailwind CSS Styling:** Clean typography and high-contrast aesthetic.
 
 ---
 
-### 🚀 Getting Started
+###  Getting Started
 ```bash
 git clone https://github.com/mrkrishna225/portfolio.git
 cd portfolio
